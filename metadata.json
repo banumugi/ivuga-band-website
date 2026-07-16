@@ -1,0 +1,6 @@
+{
+  "name": "Ivuga Band",
+  "description": "Premium Events Band - Luxury Live Music Experiences",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
